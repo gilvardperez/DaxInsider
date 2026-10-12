@@ -40,7 +40,7 @@ DAX Insider guarda todo junto al programa, en la carpeta **`DAX Insider Data`**:
 | Sección | Qué encuentras |
 |---|---|
 | **Resumen** | Salud del modelo (0–100) explicada punto por punto, plan de acción por impacto y esfuerzo, e historial de salud. |
-| **Modelo** | Peso en memoria (VertiPaq), relaciones, integridad referencial, ficha de cada medida, duplicadas y similares, linaje, objetos calculados, columnas sin uso y seguridad (RLS). |
+| **Modelo** | Peso en memoria (VertiPaq), relaciones, integridad referencial, ficha de cada medida, duplicadas y similares, linaje, funciones DAX (UDF), objetos calculados, columnas sin uso y seguridad (RLS). |
 | **Informe** | Cadena completa (columna → medida → visual → página), explorador del lienzo con capa de salud, matriz e impacto al borrar, medidas implícitas, cálculos visuales, formato condicional y medidas lentas. |
 | **Conectados** | Informes que usan el mismo modelo: qué usa el principal, qué usan los demás y qué no usa nadie. |
 | **Hallazgos** | Todo lo que conviene corregir en una lista, con **Aplicar**, **Copiar prompt** e **Ignorar**. |
