@@ -9,6 +9,9 @@
   <a href="https://github.com/gilvardperez/DaxInsider/releases/latest"><b>⬇ Descargar la última versión</b></a>
   &nbsp;·&nbsp; Windows 10/11 (64 bits) &nbsp;·&nbsp; Portable, sin instalar
 </p>
+<p align="center">
+  Creado por <a href="https://www.linkedin.com/in/gilvardperez/"><b>Gilvard Pérez</b></a> &nbsp;·&nbsp; Comunidad <a href="https://www.skool.com/club-power-bi-9524/about"><b>Club Power BI</b></a>
+</p>
 
 ---
 
